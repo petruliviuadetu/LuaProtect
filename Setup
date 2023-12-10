@@ -1,1 +1,5 @@
-S
+Setup:
+
+load this: loadstring(game:HttpGet("https://github.com/petruliviuadetu/LuaProtect/blob/main/Loadstring.lua"))
+
+Then write your code down below
