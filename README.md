@@ -1,0 +1,3 @@
+This is a Roblox Luau Protect Whitelist...
+
+To use this, Check the "Setup" File
